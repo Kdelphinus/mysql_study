@@ -1,3 +1,3 @@
 # Mysql study
 
-- Mysql 문법 정리 및 실습
+- [생활코딩](https://www.youtube.com/playlist?list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW)
